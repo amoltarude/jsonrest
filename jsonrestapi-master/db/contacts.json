@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "carl lewis",
+      "contactno": "12345678",
+      "email": "carllewis@gmail.com"
+    },
+    {
+      "name": "Merlin Otto",
+      "contactno": "7997450675",
+      "email": "merlinotto@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "tossy",
+      "contactno": "09999",
+      "email": "tossy@yahoo.com"
+    },
+    {
+      "name": "mike1",
+      "contactno": "7997450675",
+      "email": "mike1@cts.com",
+      "id": 4
+    },
+    {
+      "name": "Sroute1",
+      "contactno": "123",
+      "email": "abc@gmail.com",
+      "id": 5
+    }
+  ]
+}
